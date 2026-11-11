@@ -15,7 +15,7 @@
 <!-- ============================ TYPING + BADGES ============================ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=880&lines=AI+Product+Manager+%C2%B7+Educator+%C2%B7+Technologist;I+turn+frontier+AI+into+revenue%2C+not+demos;%24250K+closed+%C2%B7+%242M+GenAI+pipeline+built;10%2C000%2B+engineers+trained+%C2%B7+200K%2B+community;Shipped+AI+across+EdTech%2C+FinTech%2C+Gov+%26+Life+Sciences;Worked+with+Anthropic%2C+OpenAI%2C+AWS+%26+GCP)](https://github.com/agrawalparth08)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=880&lines=AI+Product+Manager+%C2%B7+Educator+%C2%B7+Technologist;OpenAI+Master+Trainer;I+turn+frontier+AI+into+revenue%2C+not+demos;%24250K+closed+%C2%B7+%242M+GenAI+pipeline+built;10%2C000%2B+engineers+trained+%C2%B7+200K%2B+community;Shipped+AI+across+EdTech%2C+FinTech%2C+Gov+%26+Life+Sciences;Worked+with+Anthropic%2C+OpenAI%2C+AWS+%26+GCP)](https://github.com/agrawalparth08)
 
 <a href="https://www.linkedin.com/in/htrap94"><img src="https://img.shields.io/badge/LinkedIn-htrap94-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:agrawalparth08@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
@@ -37,6 +37,8 @@
 class ParthAgrawal(AIProductManager, Educator):
     def __init__(self):
         self.title    = "AI Product Manager · Educator · Learning Technologist"
+        self.role     = "OpenAI Master Trainer, running enterprise GenAI workshops and labs on behalf of OpenAI (via VMS Group APAC)"
+        self.previously = "Associate Director, AI Solutions @ Cactus"
         self.based_in = "Ahmedabad, India — open to relocation (IST · PST · EST)"
         self.mission  = "Take frontier AI from prototype -> P&L -> people"
         self.range    = "8+ yrs shipping AI across EdTech, FinTech, Gov & Life Sciences"
@@ -53,7 +55,7 @@ class ParthAgrawal(AIProductManager, Educator):
         ]
 ```
 
-> **AI Product Manager · Educator · Learning Technologist.** I sit where the model meets the P&L — then I teach the room how to get there. A decade across EdTech, FinTech, Government & Life Sciences: **30+ GenAI solutions shipped**, **$250K closed** on a **$2M** pipeline, logistics cost cut **30%**, and **10,000+ engineers** trained at Accenture, Pfizer, Disney & BNP Paribas.
+> **AI Product Manager · Educator · Learning Technologist.** I sit where the model meets the P&L — then I teach the room how to get there. I'm an **OpenAI Master Trainer** and run enterprise GenAI workshops on behalf of OpenAI. Before that I was Associate Director, AI Solutions at Cactus. A decade across EdTech, FinTech, Government & Life Sciences: **30+ GenAI solutions shipped**, **$250K closed** on a **$2M** pipeline, logistics cost cut **30%**, and **10,000+ engineers** trained at Accenture, Pfizer, Disney & BNP Paribas.
 
 <!-- ============================ IMPACT ============================ -->
 ## Impact, in numbers
@@ -197,6 +199,7 @@ Optical character recognition served over a simple HTTP API — from my computer
 <!-- ============================ CURRENTLY ============================ -->
 ## Currently
 
+- Running hands-on GenAI workshops and labs for enterprise teams as an **OpenAI Master Trainer**, on behalf of OpenAI
 - Building GenAI revenue products & agentic workflows — **MCP · RAG · Knowledge Graphs**
 - Sharpening the business edge at **IIM-Ahmedabad (AGMP ’26)**
 - Exploring agent memory, local-first AI tooling & creative ML
